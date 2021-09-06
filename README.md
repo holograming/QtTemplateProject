@@ -15,17 +15,31 @@ Projects
   - Project2   
   - .....   
    
-   
+  
 
-Project quick start
+### Project quick start
 ---
 Pre-build vcpkg and cmake support Windows 10(64-bit) with visual studio 2019 over. 
 
-- To install Tools (vcpkg/cmake)
-
+- Install vcpkg under Tools folder
 ```
 > cd Tools
 > git clone https://github.com/microsoft/vcpkg
 > .\vcpkg\bootstrap-vcpkg.bat
 ```
 
+- Downalod and install CMake under Tools folder
+```
+> git clone https://github.com/microsoft/vcpkg
+> .\vcpkg\bootstrap-vcpkg.bat
+```
+    
+- Install Qt libraries    
+```
+> .\vcpkg\vcpkg install Qt:x64-windows
+```
+
+- Integrate vcpkg with Visual Studio
+```
+> .\vcpkg\vcpkg integrate install
+```
