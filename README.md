@@ -7,16 +7,16 @@ Qt 개발하면서, 임시적으로 테스트 목적으로 개발할 프로젝�
 [SourceTree](https://github.com/michalbe/md-file-tree)
 
 ---
-'''
-\---Tools
-    +---cmake-3.21.2
-    +---vcpkg
-
-\---Projects  
-    +---Project1
-    +---Project2
-    +---..... 
-'''
+'''    
+\---Tools    
+    +---cmake-3.21.2    
+    +---vcpkg    
+    
+\---Projects    
+    +---Project1    
+    +---Project2    
+    +---.....    
+'''    
 
 ### Project quick start
 ---
