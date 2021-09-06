@@ -37,11 +37,16 @@ Pre-build vcpkg and cmake support Windows 10(64-bit) with visual studio 2019 ove
 ```
     
 - Install Qt libraries    
+   + If you other option please check [vcpkg options](https://github.com/microsoft/vcpkg#quick-start-windows#)
 ```
 > .\vcpkg\vcpkg install Qt:x64-windows
 ```
 
 - Integrate vcpkg with Visual Studio
+   + Please wait for installation complete.
 ```
 > .\vcpkg\vcpkg integrate install
 ```
+
+---
+Author by Hologramer.
