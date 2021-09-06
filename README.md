@@ -30,10 +30,10 @@ Pre-build vcpkg and cmake support Windows 10(64-bit) with visual studio 2019 ove
 > .\vcpkg\bootstrap-vcpkg.bat
 ```
 
-- Downalod and install CMake under Tools folder
+- Downalod and install CMake under Tools folder - [Link](https://cmake.org/download/)
 ```
-> Download [CMake](https://cmake.org/download/)
-> unzip
+> Download CMake 
+> unzip under tools folder
 ```
     
 - Install Qt libraries    
