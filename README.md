@@ -1,11 +1,13 @@
-# QtTemplateProject
+<img alt="windows" src ="https://img.shields.io/badge/windows-10-blue.svg" width="15%" height="10%"/>	  
+<img alt="language" src ="https://img.shields.io/badge/cpp-17-yellow.svg" width="10%" height="10%"/>	  
+<img alt="cmake" src ="https://img.shields.io/badge/cmake-3.12-red.svg" width="15%" height="10%"/>	  
+<img alt="Qt" src ="https://img.shields.io/badge/Qt-5.15-41cd52.svg" width="10%" height="10%"/>	    
+
+   
+## QtTemplateProject
+----
 Qt 개발하면서, 임시적으로 테스트 목적으로 개발할 프로젝트들을 기록으로 남기기 위함.
 
-[Document](https://devblogs.microsoft.com/cppblog/clear-functional-c-documentation-with-sphinx-breathe-doxygen-cmake/)   
-[Mordern CMake](https://cliutils.gitlab.io/modern-cmake/)   
-[Vcpkg](https://vcpkg.io/en/index.html)   
-[SourceTree](https://github.com/michalbe/md-file-tree)
-   
 ### Folder hierarchy   
 ---
 ```   
@@ -48,5 +50,19 @@ Pre-build vcpkg and cmake support Windows 10(64-bit) with visual studio 2019 ove
 > .\vcpkg\vcpkg integrate install
 ```
 
+              
 ---
-Author by Hologramer.
+### Reference
+[Document](https://devblogs.microsoft.com/cppblog/clear-functional-c-documentation-with-sphinx-breathe-doxygen-cmake/)   
+[Mordern CMake](https://cliutils.gitlab.io/modern-cmake/)   
+[Vcpkg](https://vcpkg.io/en/index.html)   
+[SourceTree](https://github.com/michalbe/md-file-tree)
+  
+---
+   
+
+👤 **Hologramer1220**
+
+[Github](https://github.com/holograming/)   
+
+
