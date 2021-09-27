@@ -1,7 +1,7 @@
-<img alt="windows" src ="https://img.shields.io/badge/windows-10-blue.svg" width="15%" height="10%"/>	  
-<img alt="language" src ="https://img.shields.io/badge/cpp-17-yellow.svg" width="10%" height="10%"/>	  
-<img alt="cmake" src ="https://img.shields.io/badge/cmake-3.12-red.svg" width="15%" height="10%"/>	  
-<img alt="Qt" src ="https://img.shields.io/badge/Qt-5.15-41cd52.svg" width="10%" height="10%"/>	    
+<img alt="windows" src ="https://img.shields.io/badge/windows-10-blue.svg"/>
+<img alt="language" src ="https://img.shields.io/badge/cpp-17-yellow.svg"/>  
+<img alt="cmake" src ="https://img.shields.io/badge/cmake-3.12-red.svg"/>
+<img alt="Qt" src ="https://img.shields.io/badge/Qt-5.15-41cd52.svg"/>
 
    
 ## QtTemplateProject
